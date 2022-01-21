@@ -2,6 +2,8 @@
 
 Demo de aplicación básica con arquitectura basada en eventos con Quarkus.
 
+En el proyecto se utilizó RabbitMQ para la parte de los mensajes y MongoDB Local para manejar la persistencia.
+
 ## Estructura de Directorio del proyecto
 
 ![Directorio del Proyecto.](https://i.ibb.co/Jn2vVxr/directorio.png)
