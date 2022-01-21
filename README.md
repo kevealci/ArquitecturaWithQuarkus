@@ -31,6 +31,9 @@ En el proyecto se utilizó RabbitMQ para la parte de los mensajes y MongoDB Loca
 
 ## Funcionamiento Básico del Servicio WebSocket
 
+![Implementación del servicio de Socket.](https://i.ibb.co/mcdLm27/service-Socket.png)
+>Implementación del servicio de Socket.
+
 ![Uso básico del WebSocket en el FrontEnd.](https://i.ibb.co/R08tRyF/web-Socket.png)
 >Uso básico del WebSocket en el FrontEnd.
 
