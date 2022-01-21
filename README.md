@@ -1,4 +1,4 @@
-# Arquitectura With Quarkus
+# Arquitectura Basada en Eventos con Quarkus
 
 Demo de aplicación básica con arquitectura basada en eventos con Quarkus.
 
