@@ -26,7 +26,7 @@ En el proyecto se utilizó RabbitMQ para la parte de los mensajes y MongoDB Loca
 
 ## Handle de Comandos
 
-![Handles de los comandos.](https://i.ibb.co/5xCrHnQ/Handle-Comando.png)
+![Handles de los comandos.](https://i.ibb.co/y0zzMsF/Handle-Comando.png)
 >Handles de los comandos.
 
 ## Funcionamiento Básico del Servicio WebSocket
